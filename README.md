@@ -5,6 +5,9 @@ This is my first repository. Select homework will be placed here.  I'm using it 
 
 Love, Patricia Renee.
 
+this is editing the -edits file, after I think I edited master file, whicn I *thought* i was editing the -edits file. 
+I'm so confused.  now i'm going to try to merge this to the master copy.
+=======
 Ok, now I'm changing it to follow the tutorial.  I might have mucked it up because i made some changes before and didn't 
 know what I was looking at.  Sometimes when I looked at the file it had funny colors. hmmm.  I need coffee.
 2:45
